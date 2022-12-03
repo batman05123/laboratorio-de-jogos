@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300;400;500;600;700&display=swap');
+
+
+body {
+    background-color: rgb(32, 32, 32) !important;
+    font-family: 'Lexend Deca', sans-serif !important;
+}
+
+
+#carouselExampleControls {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px !important;
+}
+
+h1, h3, p {
+    text-align: center;
+}
+
+#carouselExampleC {
+    width: 700px !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 20px !important;
+}
+
+img, a {
+    border-radius: 20px !important;
+}
+
+.carousel-item {
+    border-radius: 20px !important;
+}
